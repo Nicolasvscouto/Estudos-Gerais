@@ -1,4 +1,4 @@
-package Java.projetos.criarConta;
+package projetos.criarConta;
 
 public class Main{
     
