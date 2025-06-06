@@ -1,7 +1,6 @@
 package excecao;
 
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class excecaoArray {
 public static void main(String[] args) throws ErroValidacao{
